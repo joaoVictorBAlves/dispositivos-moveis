@@ -1,6 +1,7 @@
 # Mobile Devices Programming Course Repository
 
-Welcome to the Mobile Devices Programming course repository for the Digital Systems and Media program! This repository is designed to support your development and learning journey throughout the course. Here, you will find resources, projects, and materials related to the course's content.
+Welcome to the Mobile Devices Programming course repository for the Digital Systems and Media program! This repository is designed to support your development and learning journey throughout the course. Here, you will find resources, projects, and materials related to the course's content. 
+
 ![4428861](https://github.com/joaoVictorBAlves/dispositivos-moveis/assets/86852231/20135e21-078e-4cc5-9e0d-59b3c69f7c10)
 
 ## Course Information
